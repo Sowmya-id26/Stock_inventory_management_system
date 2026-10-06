@@ -6,10 +6,7 @@ The application provides role-based access control, secure authentication, stock
 
 ## Live Demo
 
-**Live Application:** https://stock-inventory-management-x4cp.onrender.com
 
-**GitHub Repository:**
-https://github.com/Yamuna052005/Stock_inventory_management
 
 ---
 
@@ -323,7 +320,6 @@ Stock_inventory_management/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yamuna052005/Stock_inventory_management.git
 
 cd Stock_inventory_management
 ```
